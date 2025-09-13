@@ -1,8 +1,6 @@
 # 📝 README.md (Markdown Version)
 
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wasu-2.wasu-2" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+my+names+wasu!+wave)](https://git.io/typing-svg)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
