@@ -1,8 +1,7 @@
 # 📝 README.md (Markdown Version)
-
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+my+names+wasu!+wave)](https://git.io/typing-svg)
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+my+names+wasu!+wave" />
+</h1>
 
 <h3 align="center">A professional programmer (Vibe coder) from Wales🏴</h3>
 
